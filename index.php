@@ -62,14 +62,14 @@
 
         <table class="table mt-2">
             <tr>
-                <th>ID</th>
-                <th>NAME</th>
-                <th>DEGREE</th>
-                <th>MOBILE</th>
-                <th>EMAIL</th>
-                <th>REFERENCE</th>
-                <th>POST</th>
-                <th colspan="2">OPERATOR</th>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Degree</th>
+                <th>Phone</th>
+                <th>Email</th>
+                <th>Reference</th>
+                <th>Position</th>
+                <th colspan="2">Action</th>
             </tr>
 
             <?php
